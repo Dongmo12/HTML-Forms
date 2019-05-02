@@ -24,9 +24,18 @@
     background-color: white;
     border: rgb(199, 199, 199) 1px solid;
     border-radius: 2px;
-    width: 380px;
-    padding: 30px;
     margin: 15px auto;
+    padding: 30px;
+    width: 380px;
+}
+
+.signup-box input {
+    border: rgb(193, 197, 200) 1px solid;
+    border-radius: 2px;
+    height: 28px;
+    margin: 5px 0;
+    min-width: 160px;
+    width: 320px;
 }
 .turbotax-logo {
     background-position: 0 -45px;

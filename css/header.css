@@ -15,8 +15,13 @@
 	display: block;
 }
 .forgot-user-id-or-password {
-
 	display: block;
+}
+.forgot-user-id-or-password a {
+	text-decoration: none;
+	outline-color: rgb(0, 119, 197);
+	text-decoration-color: rgb(0, 119, 197);
+	color: rgb(0, 119, 197);
 }
 .navbar button {
 	width: 103px;

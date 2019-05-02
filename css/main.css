@@ -1,4 +1,6 @@
 body {
 	background-color: rgb(236, 238, 241);
 	margin: 0;
+	font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 12px;
 }

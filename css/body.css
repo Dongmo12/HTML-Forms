@@ -74,3 +74,9 @@
 .create-account-button {
     margin: 25px 0;
 }
+
+.form-footer {
+    background-color: rgb(236, 238, 241);
+    padding: 16px;
+    bottom: 0;
+}

@@ -78,5 +78,7 @@
 .form-footer {
     background-color: rgb(236, 238, 241);
     padding: 16px;
-    bottom: 0;
+    margin: 32px -30px -30px -30px;
+    font-size: 10px;
+    text-align: center;
 }

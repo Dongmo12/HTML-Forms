@@ -1,3 +1,4 @@
-body {
-	background-color: rgb(236, 238, 241);
+.navbar {
+	height: 60px;
+	border: black 1px solid;
 }

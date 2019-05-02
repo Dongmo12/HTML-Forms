@@ -30,12 +30,5 @@
     margin: 0 auto;
     display: inline-block;
     background-image: url(../images/ecosystem_logos_new@2x.png);
-}
-
-@media (-webkit-min-device-pixel-ratio: 1.5), not all, not all, (min-resolution: 1.5dppx) {
-.logo {
-    background-image: url(../images/ecosystem_logos_new@2x.png);
-    background-size: 458px 83px;
-}
-	
+	background-size: 458px 83px;
 }

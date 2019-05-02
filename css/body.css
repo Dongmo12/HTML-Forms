@@ -1,9 +1,41 @@
-intuit-logo {
-    background-position: 0 0;
+.header, .widget {
+	text-align: center;
 }
 
-@media (-webkit-min-device-pixel-ratio: 1.5), not all, not all, (min-resolution: 1.5dppx)
-.ius-hosted-ui .ius-hosted-ui-logo-container .ius-hosted-ui-logo, .ius-hosted-ui .ius-hostedui-product-header-logo-list .ius-hosted-ui-footer-logo {
-    background-image: url(/images/v2/ecosystem_logos_new@2x.png);
+.intuit-logo {
+    background-position: 0 0;
+    width: 118px;
+    height: 35px;
+}
+
+.mint-logo {
+    background-position: -246px -45px;
+    width: 75px;
+    height: 35px;
+}
+
+.quickbooks-logo {
+    background-position: -104px -45px;
+    width: 145px;
+    height: 35px;
+}
+
+.turbotax-logo {
+    background-position: 0px -45px;
+    width: 100px;
+    height: 35px;
+}
+
+.logo {
+    margin: 0 auto;
+    display: inline-block;
+    background-image: url(../images/ecosystem_logos_new@2x.png);
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), not all, not all, (min-resolution: 1.5dppx) {
+.logo {
+    background-image: url(../images/ecosystem_logos_new@2x.png);
     background-size: 458px 83px;
+}
+	
 }

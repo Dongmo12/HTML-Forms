@@ -13,5 +13,8 @@ body {
 
 .footer{
 	text-align: center;
+}
 
+.footer a {
+	color: rgb(80, 80, 80);
 }

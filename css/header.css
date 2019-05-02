@@ -1,11 +1,11 @@
 .navbar {
+    color: rgb(80, 80, 80);
 	height: 60px;
-	color: rgb(80, 80, 80);
 }
 .navbar > div {
-	width: 300px;
 	float: right;
 	margin: 10px;
+    width: 300px;
 }
 .navbar > div > div {
 	display: inline-block;
@@ -18,8 +18,8 @@
 	display: block;
 }
 .forgot-user-id-or-password a {
+    color: rgb(0, 119, 197);
+    outline-color: rgb(0, 119, 197);
 	text-decoration: none;
-	outline-color: rgb(0, 119, 197);
 	text-decoration-color: rgb(0, 119, 197);
-	color: rgb(0, 119, 197);
 }

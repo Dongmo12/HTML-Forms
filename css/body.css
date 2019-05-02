@@ -10,25 +10,25 @@
 
 .mint-logo {
     background-position: -246px -45px;
-    width: 75px;
     height: 35px;
+    width: 75px;
 }
 
 .quickbooks-logo {
     background-position: -104px -45px;
-    width: 145px;
     height: 35px;
+    width: 145px;
 }
 
 .turbotax-logo {
     background-position: 0px -45px;
-    width: 100px;
     height: 35px;
+    width: 100px;
 }
 
 .logo {
-    margin: 0 auto;
-    display: inline-block;
     background-image: url(../images/ecosystem_logos_new@2x.png);
 	background-size: 458px 83px;
+    display: inline-block;
+    margin: 0 auto;
 }

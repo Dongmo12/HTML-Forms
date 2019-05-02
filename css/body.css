@@ -13,7 +13,12 @@
     height: 35px;
     width: 75px;
 }
-
+.password-field{
+    margin-top: 30px;
+}
+.phone-field{
+    margin-top: 30px;
+}
 .quickbooks-logo {
     background-position: -104px -45px;
     height: 35px;
@@ -27,6 +32,16 @@
     width: 380px;
     padding: 30px;
     margin: 15px auto;
+}
+
+.signup-box-header{
+    font-size: 24px;
+    text-align: center;
+
+
+}
+.signup-box-body{
+    text-align: center;
 }
 .turbotax-logo {
     background-position: 0 -45px;

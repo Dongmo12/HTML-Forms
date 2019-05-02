@@ -20,6 +20,10 @@
     width: 145px;
 }
 
+.signup-box{
+    background-color: white;
+    border: 30px;
+}
 .turbotax-logo {
     background-position: 0 -45px;
     height: 35px;

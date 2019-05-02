@@ -1,3 +1,9 @@
-body {
-	background-color: rgb(236, 238, 241);
+intuit-logo {
+    background-position: 0 0;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5), not all, not all, (min-resolution: 1.5dppx)
+.ius-hosted-ui .ius-hosted-ui-logo-container .ius-hosted-ui-logo, .ius-hosted-ui .ius-hostedui-product-header-logo-list .ius-hosted-ui-footer-logo {
+    background-image: url(/images/v2/ecosystem_logos_new@2x.png);
+    background-size: 458px 83px;
 }

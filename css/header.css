@@ -2,11 +2,19 @@
     color: rgb(80, 80, 80);
 	height: 60px;
 }
+
+nav button {
+    margin-left: 10px;
+    position: absolute;
+	width: 103px;
+}
+
 .navbar > div {
 	float: right;
 	margin: 10px;
     width: 300px;
 }
+
 .navbar > div > div {
 	display: inline-block;
 	margin-top: 4px;
@@ -16,10 +24,4 @@
 }
 .forgot-user-id-or-password {
 	display: block;
-}
-.forgot-user-id-or-password a {
-    color: rgb(0, 119, 197);
-    outline-color: rgb(0, 119, 197);
-	text-decoration: none;
-	text-decoration-color: rgb(0, 119, 197);
 }

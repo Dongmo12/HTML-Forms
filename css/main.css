@@ -2,7 +2,9 @@ body {
 	background-color: rgb(236, 238, 241);
 	font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 12px;
-	margin: 0;
+    margin: 0;
+    padding-bottom: 30px;
+    color: rgb(80, 80, 80);
 }
 
 .button-padlock-logo {
@@ -23,8 +25,13 @@ button {
     border-radius: 4px;
     border-width: 1px;
     color: white;
-	height: 34px;
-    margin-left: 10px;
-    position: absolute;
-	width: 103px;
+    height: 34px;
+    width: 100%;
+}
+
+a {
+    color: rgb(0, 119, 197);
+    outline-color: rgb(0, 119, 197);
+	text-decoration: none;
+	text-decoration-color: rgb(0, 119, 197);
 }

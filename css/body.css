@@ -47,6 +47,7 @@
     margin: 5px 0;
     min-width: 160px;
     width: 100%;
+    padding-left: 5px;
 }
 
 .signup-box-header{

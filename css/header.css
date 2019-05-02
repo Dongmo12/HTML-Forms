@@ -2,3 +2,22 @@
 	height: 60px;
 	border: black 1px solid;
 }
+.navbar > div {
+	width: 300px;
+	float: right;
+	margin: 10px;
+}
+.navbar > div > div {
+	display: inline-block;
+}
+.already-have-account {
+	display: block;
+}
+.forgot-user-id-or-password {
+
+	display: block;
+}
+.navbar button {
+	width: 70px;
+	height: 30px;
+}

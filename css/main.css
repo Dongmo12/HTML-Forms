@@ -1,10 +1,10 @@
 body {
 	background-color: rgb(236, 238, 241);
+    color: rgb(80, 80, 80);
 	font-family: AvenirNext, Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 12px;
     margin: 0;
     padding-bottom: 30px;
-    color: rgb(80, 80, 80);
 }
 
 .button-padlock-logo {
